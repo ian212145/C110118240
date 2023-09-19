@@ -16,3 +16,8 @@
 s = "python highlighted syntex"
 print(s)
 ```
+
+```js
+var s ="Javascript highlights";
+alert(s)
+```
